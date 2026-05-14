@@ -9,6 +9,11 @@
 
 </div>
 
+## My Songs 
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31e6wbqkpuizrggydmg2niudqgxi" alt="Spotify Recently Played" />
+
+
 ---
 
 ## 🧐 About Me
